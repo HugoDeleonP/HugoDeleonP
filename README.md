@@ -1,6 +1,7 @@
-## Olá, seja bem-vindo(a)!
-
-
+<p align="center">
+  <img src= "https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=36F7F4&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Hugo!;Sou+um+entusiasta+de+tecnologia;Versão+alpha+de+mim+mesmo%2C+sempre+em+atualização+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<br>
 <table>
   <tr>
     <td>

@@ -25,16 +25,16 @@
 
 <div style = "display: inline_block"> <br>
   <img align= "Center" alt="Hugo-Linux" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-  <img align= "Center" alt="Hugo" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  
+  <img align= "Center" alt="Hugo-Java" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align= "Center" alt="Hugo-HTML5" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align= "Center" alt="Hugo-CSS3" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align= "Center" alt="Hugo-MySQL" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align= "Center" alt="Hugo-MariaDB" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+  <img align= "Center" alt="Hugo-Jira" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+  <img align= "Center" alt="Hugo-VsCode" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align= "Center" alt="Hugo-Eclipse" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img align= "Center" alt="Hugo-NeoVim" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+  <img align= "Center" alt="Hugo-Figma" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  
 </div>
 
 <br>

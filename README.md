@@ -36,6 +36,8 @@
   <img align= "Center" alt="Hugo-Eclipse" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align= "Center" alt="Hugo-NeoVim" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
   <img align= "Center" alt="Hugo-Figma" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  
+  <img align= "Center" alt="Hugo-Figma" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
 </div>
 
 <br>

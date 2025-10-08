@@ -34,7 +34,7 @@
   <img align= "Center" alt="Hugo-MariaDB" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img align= "Center" alt="Hugo-Jira" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
   <img align= "Center" alt="Hugo-NeoVim" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-  <img align= "Center" alt="Hugo-Arch" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img align= "Center" alt="Hugo-Linux" height = "60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
 </div>
 

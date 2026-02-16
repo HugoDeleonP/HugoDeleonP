@@ -48,7 +48,7 @@ MariaDB [README]> select * from sobre_mim;
 +----+-------------+-------+---------------------+-----------------------------------------------------------------------+
 | id | nome        | idade | localizacao         | interesses                                                            |
 +----+-------------+-------+---------------------+-----------------------------------------------------------------------+
-|  1 | Hugo Deleon |    17 | Jaraguá do Sul, SC  | Filosofia, Matemática, funcionamento de sistemas e tecnologia no geral|
+|  1 | Hugo Deleon |    18 | Jaraguá do Sul, SC  | Filosofia, Matemática, funcionamento de sistemas e tecnologia no geral|
 +----+-------------+-------+---------------------+-----------------------------------------------------------------------+
 1 row in set (0.00 sec)
 

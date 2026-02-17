@@ -1,26 +1,6 @@
 <p align="center">
   <img src= "https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Hugo!;Sou+um+entusiasta+de+tecnologia;Compilando+conhecimento+diariamente+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<br>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=HugoDeleonP&theme=highcontrast&hide_border=false&include_all_commits=true&show_icons=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDeleonP&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-<br>
   
 ## Tecnologias em uso atualmente
 

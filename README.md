@@ -4,7 +4,7 @@
   
 ### 🛠 Stack Tecnológica
 
-#### Backend Stack
+#### Backend 
 <div align="left">
   <img alt="Java" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
   <img alt="Spring Boot" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> &nbsp;
@@ -16,7 +16,7 @@
   <img alt="SQLite" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 
-#### Frontend Stack
+#### Frontend
 <div align="left">
   <img alt="JavaScript" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
   <img alt="TypeScript" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -32,7 +32,7 @@
   <img alt="pandas" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 </div>
 
-#### IoT Stack
+#### IoT
 
 <div align="left">
   <img alt="C++" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> &nbsp;

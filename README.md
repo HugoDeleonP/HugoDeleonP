@@ -8,6 +8,7 @@
 <div align="left">
   <img alt="Java" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
   <img alt="Spring Boot" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> &nbsp;
+  <img alt="Kotlin" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> &nbsp;
   <img alt="Postman" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img alt="Insomnia" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />  
   <img alt="MySQL" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />

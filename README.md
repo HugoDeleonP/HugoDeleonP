@@ -37,12 +37,19 @@
 ## Sobre mim
 
 ```sql
-MariaDB [README]> select * from sobre_mim;
-+----+-------------+-------+---------------------+-----------------------------------------------------------------------+
-| id | nome        | idade | localizacao         | interesses                                                            |
-+----+-------------+-------+---------------------+-----------------------------------------------------------------------+
-|  1 | Hugo Deleon |    18 | Jaraguá do Sul, SC  | Filosofia, Matemática, funcionamento de sistemas e tecnologia no geral|
-+----+-------------+-------+---------------------+-----------------------------------------------------------------------+
+MariaDB [README]> SELECT 
+                      id, 
+                      nome, 
+                      idade,
+                      localizacao,
+                      interessses 
+                  FROM desenvolvedores 
+                  WHERE nome = 'Hugo Deleon';
++----+-------------+-------+---------------------+-----------------------------------------------------------+
+| id | nome        | idade | localizacao         | interesses                                                |
++----+-------------+-------+---------------------+-----------------------------------------------------------+
+|  1 | Hugo Deleon |    18 | Jaraguá do Sul, SC  | Filosofia · Matemática · Sistemas · Tecnologia em geral   |
++----+-------------+-------+---------------------+-----------------------------------------------------------+
 1 row in set (0.00 sec)
-
+ 
 ```
